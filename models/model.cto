@@ -37,6 +37,7 @@ concept MedicalRecord {
   o String diagnosis
   o String[] medicine
   o Integer[] quantity
+  o String[] files optional
 }
 
 transaction CreateMedicalRecord {
@@ -45,4 +46,5 @@ transaction CreateMedicalRecord {
   o String diagnosis
   o String[] medicine
   o Integer[] quantity
+  o String[] files optional
 }
