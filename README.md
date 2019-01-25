@@ -1,2 +1,2 @@
-# EHR-System
-EHR System to store records of patients on Blockchain
+# EHR System
+## EHR System to store patients' records on Blockchain.
