@@ -13,7 +13,7 @@
  */
 
 /**
- * Sample business network definition.
+ * Electronic Health Record system network schema.
  */
 namespace org.ehr.hackathon
 
@@ -33,7 +33,6 @@ participant Doctor identified by doctorId {
 concept MedicalRecord {
   o String recordId
   --> Doctor doctor
-//  -->Patient patient
   o String diagnosis
   o String[] medicine
   o Integer[] quantity

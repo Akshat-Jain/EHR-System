@@ -13,7 +13,7 @@
  */
 
 /**
- * Sample access control list.
+ * Access control list for an electronic health record system.
  */
 rule EverybodyCanReadEverything {
     description: "Allow all participants read access to all resources"
