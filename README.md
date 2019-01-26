@@ -1,4 +1,4 @@
-<img src="https://www.devteam.space/wp-content/uploads/2018/02/health-730x410.png" align="left" hspace="1" vspace="1" height="146" width="82">
+<img src="https://www.devteam.space/wp-content/uploads/2018/02/health-730x410.png" align="right" hspace="1" vspace="1" height="120" width="200">
 
 # EHR System
 
