@@ -106,6 +106,14 @@ Patients will be able to easily upload and securely store their updated medical 
 - `composer-rest-server -c admin@ehr -n always -u true -d y -w true`
 - Goto `http://localhost:3000/explorer` to explored the REST API
 
+# Client Repositories for the Project
+
+### Repo Link for Web Client:
+https://github.com/ashwaniYDV/WebClient
+
+### Repo Link for Android Client:
+https://github.com/ravi-kishan/AndroidClient
+
 ## License
 
 This project is available under the MIT license. See the [LICENSE](LICENSE) file for more info.
