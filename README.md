@@ -100,8 +100,8 @@ Patients will be able to easily upload and securely store their updated medical 
 - First install [Hyperledger composer](https://hyperledger.github.io/composer/latest/installing/installing-prereqs.html). Then install the [development environment](https://hyperledger.github.io/composer/latest/installing/development-tools.html).
 - Execute the following commands to setup your Blockchain network and generate Hyperledger Composer Rest Server:
 - `composer archive create -t dir -n .`
-- `composer network install --card PeerAdmin@hlfv1 --archiveFile ehr@0.0.2.bna`
-- `composer network start --networkName ehr --networkVersion 0.0.2 --card PeerAdmin@hlfv1 --networkAdmin admin --networkAdminEnrollSecret adminpw --file networkadmin.card`
+- `composer network install --card PeerAdmin@hlfv1 --archiveFile ehr@0.0.3.bna`
+- `composer network start --networkName ehr --networkVersion 0.0.3 --card PeerAdmin@hlfv1 --networkAdmin admin --networkAdminEnrollSecret adminpw --file networkadmin.card`
 - `composer card import --file networkadmin.card` 
 - `composer-rest-server -c admin@ehr -n always -u true -d y -w true`
 - Goto `http://localhost:3000/explorer` to explored the REST API
