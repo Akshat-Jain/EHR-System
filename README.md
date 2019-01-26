@@ -11,7 +11,7 @@ The project is developed and maintained by
 - Akshat Jain ([Akshat-Jain](https://github.com/Akshat-Jain))
 - Shubhankar Amitabh ([shubhamitabh](https://github.com/shubhamitabh))
 - Ravi Kishan ([ravi-kishan](https://github.com/ravi-kishan))
-- Ashwani Yadav ([ravi-kishan](https://github.com/ashwaniYDV))
+- Ashwani Yadav ([ashwaniYDV](https://github.com/ashwaniYDV))
 <table>
 <tr>
 <td>
