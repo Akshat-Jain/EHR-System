@@ -104,7 +104,7 @@ Patients will be able to easily upload and securely store their updated medical 
 - `composer network start --networkName ehr --networkVersion 0.0.3 --card PeerAdmin@hlfv1 --networkAdmin admin --networkAdminEnrollSecret adminpw --file networkadmin.card`
 - `composer card import --file networkadmin.card` 
 - `composer-rest-server -c admin@ehr -n always -u true -d y -w true`
-- Goto `http://localhost:3000/explorer` to explored the REST API
+- Goto `http://localhost:3000/explorer` to explore the REST API
 
 # Instructions to restart the server
 - Change to the directory where the docker-compose.yml file is (`cd /Users/AkJn/fabric-dev-servers/fabric-scripts/hlfv1/composer`
